@@ -1,4 +1,5 @@
 fundingworks.github.io
 ======================
 
-static site
+### [static site](http://www.fundingworks.org)
+
